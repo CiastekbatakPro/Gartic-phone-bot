@@ -1,0 +1,29 @@
+{
+  "name": "eloelo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/jimp": "^0.2.28",
+    "@types/random-useragent": "^0.3.0",
+    "@types/rgb-hex": "^3.0.0",
+    "@types/terminal-kit": "^1.28.2",
+    "@types/uuid": "^8.3.0",
+    "@types/ws": "^7.4.1",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "jimp": "^0.16.1",
+    "random-useragent": "^0.5.0",
+    "rgb-hex": "^3.0.0",
+    "terminal-kit": "^2.0.7",
+    "uuid": "^8.3.2",
+    "ws": "^7.4.4"
+  }
+}
